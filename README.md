@@ -7,6 +7,11 @@ No scanner, no intruder, no spider. Just the proxy. Just the control.
 
 ## Idea 
 ![Principal Idea](./images/Functional_Diagram.png)
+
+## First Mockup
+
+![UI design](./images/first_mockup.png)
+
 ## Features
 
 - Intercept HTTP/HTTPS requests
