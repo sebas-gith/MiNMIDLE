@@ -24,3 +24,6 @@ No scanner, no intruder, no spider. Just the proxy. Just the control.
 - C# / .NET
 - WPF-UI
 - Titanium.Web.Proxy
+
+## License
+[MIT LICENSE](https://github.com/sebas-gith/MiNMIDLE?tab=MIT-1-ov-file#readme)
